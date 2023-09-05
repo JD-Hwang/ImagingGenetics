@@ -1,3 +1,3 @@
 Imaging genetics code & data
 
-This is my private repository with my own pipeline.
+This is JD's repository with my own pipeline.
